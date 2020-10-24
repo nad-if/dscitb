@@ -13,7 +13,7 @@ Pada bulan Januari 2018, Google mengumumkan perubahan merek produk pembayaran ko
 - Membeli produk Google
 - Mengirim uang ke teman dan keluarga
 
-# Cara Kerja
+## Cara Kerja
 
 Saat pengguna menekan tombol pembayaran Google Pay, mereka melihat lembar pembayaran yang menampilkan metode pembayaran yang disimpan ke Google Account mereka, serta alamat pengiriman. Pengguna dapat memilih metode pembayaran, menambahkan alamat pengiriman tambahan, atau menambah informasi baru.
 
@@ -22,3 +22,14 @@ Lebih lengkapnya sebagai berikut:
 - Pengguna memilih metode pembayaran dan Google Pay dengan aman mengembalikan token pembayaran untuk metode tersebut ke situs Anda
 - Situs web Anda mengirimkan token pembayaran, bersama dengan detail tentang pembelian, ke backend-nya
 - Untuk mengeksekusi pembayaran, backend memproses pembelian dan mengirimkan token pembayaran ke penyedia layanan pembayaran
+
+## Kelebihan dan Kekurangan
+### Kelebihan
+- Dapat melakukan pembelian di dalam aplikasi atau web
+- Keamanan tingkat tinggi
+- Mudah digunakan
+
+### Kekurangan
+- Di Indonesia, Google Pay belum dapat digunakan untuk mentransfer uang ke orang lain
+- Terbatas dengan NFC
+- Semua transaksi tergantung smartphone sehingga jika baterai habis akan sulit dalam menggunakannya
