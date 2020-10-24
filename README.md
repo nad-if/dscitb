@@ -15,8 +15,6 @@ Pada bulan Januari 2018, Google mengumumkan perubahan merek produk pembayaran ko
 
 # Cara Kerja
 
-1. Alur pembayaran untuk web
-
 Saat pengguna menekan tombol pembayaran Google Pay, mereka melihat lembar pembayaran yang menampilkan metode pembayaran yang disimpan ke Google Account mereka, serta alamat pengiriman. Pengguna dapat memilih metode pembayaran, menambahkan alamat pengiriman tambahan, atau menambah informasi baru.
 
 Lebih lengkapnya sebagai berikut:
